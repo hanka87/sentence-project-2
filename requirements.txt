@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+nltk
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
+contractions
+Jinja2
+pydantic
+typing-extensions
