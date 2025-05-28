@@ -1,4 +1,5 @@
 import re
+import nltk
 import contractions
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
